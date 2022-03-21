@@ -1,0 +1,236 @@
+/* --------------------------------------------------------------------------
+* Template Round Style CSS
+*
+* Template:		Sepia - Photography Portfolio HTML Website Template
+* Author:		Themetorium
+* URL:			http://themetorium.net
+*
+* Read template documentation about how to enable round style!
+-------------------------------------------------------------------------- */
+
+
+.sidebar-post-list .post-thumb,
+.sidebar-comment-avatar,
+#blog-post-comments .media-object,
+.blog-author-img, 
+.blog-single-post .author-avatar,
+.owl-carousel .owl-nav button.owl-prev, 
+.owl-carousel .owl-nav button.owl-next,
+.nav-bottom-right .owl-nav button.owl-prev, 
+.nav-bottom-right .owl-nav button.owl-next {
+	border-radius: 100%;
+}
+
+
+.btn,
+.hr-short,
+.tt-tools-button,
+.owl-carousel .cc-category a, 
+.owl-carousel .cc-category span,
+.form-control,
+.page-header-category > a,
+.modal-share .grab-link,
+.bl-item-category a, 
+.bl-item-category span,
+.gtb-heading-category a, 
+.gtb-heading-category span,
+.pagination > li > a, 
+.pagination > li > span,
+.pagination > li:first-child > a, 
+.pagination > li:first-child > span,
+.pagination > li:last-child > a, 
+.pagination > li:last-child > span,
+.gallery-single-carousel ul.gallery-meta,
+.sidebar-tags a,
+.blog-single-tags a,
+.sidebar-categories > ul > li > a span,
+.related-posts-item .rp-item-category a,
+.blog-single-post-category a,
+.sr-item-category a, 
+.sr-item-category span,
+.accordion-wrap .panel-heading a,
+.big-search-box,
+#big-search-input {
+	border-radius: 100px;
+}
+
+
+.isotope.gutter-1 .gallery-list-item,
+.isotope.gutter-2 .gallery-list-item,
+.isotope.gutter-3 .gallery-list-item,
+.isotope.gutter-1 .gl-item-image-inner,
+.isotope.gutter-2 .gl-item-image-inner,
+.isotope.gutter-3 .gl-item-image-inner,
+.isotope.gutter-1 .gli-frame .gl-item-image-wrap, 
+.isotope.gutter-2 .gli-frame .gl-item-image-wrap, 
+.isotope.gutter-3 .gli-frame .gl-item-image-wrap,
+.isotope.gutter-1 .gallery-single-item,
+.isotope.gutter-2 .gallery-single-item,
+.isotope.gutter-3 .gallery-single-item,
+.gs-sidebar-info,
+.gss-item-image img,
+.modal-dialog,
+.price-box,
+.bl-item-image img,
+.bl-item-info,
+.blog-single-featured-image img,
+.blog-single-post-heading,
+.single-post-image img,
+.split-box-content,
+.isotope-filter.fi-to-button ul.isotope-filter-links,
+.gtl-item,
+.gs-carousel-info,
+.gsi-image-caption,
+.gallery-list-carousel .owl-carousel[data-margin] .owl-item,
+.gallery-single-carousel .owl-carousel[data-margin] .owl-item,
+.blc-categories .owl-carousel[data-margin] .owl-item,
+.blc-featured .owl-carousel[data-margin] .owl-item,
+.owl-dots button.owl-dot span,
+.blog-single-post .owl-item,
+.thumb-list.gutter-1 .thumb-list-item,
+.thumb-list.gutter-2 .thumb-list-item,
+.thumb-list.gutter-3 .thumb-list-item,
+.thumb-list.gutter-4 .thumb-list-item,
+.thumb-list.gutter-5 .thumb-list-item,
+.thumb-list.gutter-6 .thumb-list-item,
+.embed-responsive,
+.related-posts-item .rp-item-image,
+#post-comment-form,
+#blog-post-comments .media-body,
+textarea.form-control,
+/* select.form-control, */
+.archive-info-box,
+.sr-item-img,
+.contact-info-wrap,
+#map,
+.page-sidebar img,
+body.tt-boxed .tt-wrap .split-box-image,
+.sr-item-img,
+.sr-item-img.glc-gallery {
+	border-radius: 5px;
+}
+
+
+.form-btn-inside button {
+	border-radius: 0 100px 100px 0;
+}
+.gli-alter-1 .gl-item-info, 
+.isotope.gutter-2 .gli-alter-1 .gallery-list-item .gl-item-info, 
+.isotope.gutter-3 .gli-alter-1 .gallery-list-item .gl-item-info,
+.gli-alter-3 .gl-item-info, 
+.isotope.gutter-2 .gli-alter-3 .gallery-list-item .gl-item-info, 
+.isotope.gutter-3 .gli-alter-3 .gallery-list-item .gl-item-info,
+.tt-submenu,
+.tt-dropdown {
+	border-radius: 0 0 5px 5px;
+}
+
+
+.price-box,
+.sr-item-img.glc-gallery {
+	overflow: hidden;
+}
+
+
+.owl-carousel .cc-category a, 
+.owl-carousel .cc-category span,
+.gtb-heading-category a, 
+.gtb-heading-category span,
+.page-header-category > a,
+.bl-item-category a, 
+.bl-item-category span,
+.related-posts-item .rp-item-category a,
+.blog-single-post-category a,
+.sr-item-category a, 
+.sr-item-category span {
+	padding: 0 7px;
+}
+
+.btn {
+	padding-left: 22px;
+	padding-right: 22px;
+}
+.btn-group-lg > .btn, .btn-lg {
+	padding-left: 28px;
+	padding-right: 28px;
+}
+.tt-tools-button {
+	padding-left: 18px;
+	padding-right: 18px;
+}
+
+.sidebar-post-list .post-thumb {
+	width: 65px;
+	height: 65px;
+}
+
+.sidebar-categories > ul > li > a span {
+	padding: 6px 6px 4px 6px;
+}
+
+.accordion-wrap .panel-heading a > .acc-arrow {
+	right: 15px;
+}
+
+@media (min-width: 768px) {
+	.big-search-box {
+		padding-left: 40px;
+		padding-right: 40px;
+	}
+}
+@media (max-width: 767px) {
+	.big-search-box {
+		border-radius: 5px;
+	}
+}
+@media (min-width: 480px) {
+	.big-search-options-wrap {
+		padding-left: 30px;
+		padding-right: 30px;
+	}
+}
+
+.owl-carousel .owl-nav button.owl-prev, 
+.owl-carousel .owl-nav button.owl-next {
+	width: 60px;
+	height: 60px;
+	line-height: 60px;
+}
+.nav-outside-top .owl-nav button.owl-prev, 
+.nav-outside-top .owl-nav button.owl-next {
+	width: 32px;
+	height: 32px;
+	line-height: 32px;
+}
+.owl-carousel:hover .owl-nav button.owl-prev {
+	left: 20px;
+}
+.owl-carousel:hover .owl-nav button.owl-next {
+	right: 20px;
+}
+.owl-carousel.nav-outside:hover .owl-nav button.owl-prev {
+	left: -70px;
+}
+.owl-carousel.nav-outside:hover .owl-nav button.owl-next {
+	right: -70px;
+}
+@media (max-width: 1540px) {
+	.owl-carousel.nav-outside:hover .owl-nav button.owl-prev {
+		left: 15px;
+	}
+	.owl-carousel.nav-outside:hover .owl-nav button.owl-next {
+		right: 15px;
+	}
+}
+.owl-carousel.nav-outside-top:hover .owl-nav button.owl-prev {
+	left: 0;
+}
+.owl-carousel.nav-outside-top:hover .owl-nav button.owl-next {
+	right: 0;
+}
+.owl-carousel.nav-bottom-right:hover .owl-nav button.owl-prev {
+	left: 0;
+}
+.owl-carousel.nav-bottom-right:hover .owl-nav button.owl-next {
+	right: 0;
+}

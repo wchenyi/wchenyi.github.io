@@ -1,0 +1,358 @@
+/* --------------------------------------------------------------------
+* Template color skin CSS (Red)
+* 
+* Template:		Sepia - Photography Portfolio HTML Website Template
+* Author:		Themetorium
+* URL:			https://themetorium.net
+*
+* Template skin main color: #da0d0d;
+* Hover color: #bd0707;
+*
+* Read template documentation about how to enable color skin!
+----------------------------------------------------------------------- */
+
+
+
+a {
+	color: #da0d0d;
+}
+a:hover, a:focus {
+	color: #bd0707;
+	text-decoration: none;
+}
+
+::selection {
+	background: #da0d0d;
+}
+::-moz-selection {
+	background: #da0d0d; /* Firefox */
+}
+::-webkit-selection {
+	background: #da0d0d; /* Safari */
+}
+
+hr.hr-short {
+	border-color: #da0d0d;
+}
+
+.animsition-loading {
+	border-color: #da0d0d;
+}
+
+.tt-menu-nav > li > a:after {
+	background-color: #da0d0d;
+}
+
+.tt-menu-nav > li.active > a:after {
+	background-color: #da0d0d;
+}
+
+.tt-submenu li > a:hover {
+	-webkit-box-shadow: inset 3px 0 0 0 #da0d0d;
+	box-shadow: inset 3px 0 0 0 #da0d0d;
+}
+.tt-submenu > li.active > a {
+	-webkit-box-shadow: 3px 0 0 0 #da0d0d;
+	box-shadow: inset 3px 0 0 0 #da0d0d;
+}
+.tt-menu-nav > li.active > a {
+		box-shadow: inset 4px 0 0 0 #da0d0d;
+	}
+
+.tt-submenu > li.active > a {
+		box-shadow: inset 4px 0 0 0 #da0d0d;
+	}
+
+.tt-clobal-search #tt-clobal-search-input:focus {
+	border-bottom-color: #da0d0d;
+}
+.tt-tools-button {
+	background-color: #da0d0d;
+}
+#tt-intro .cc-category {
+	background-color: #da0d0d;
+}
+ul.isotope-filter-links > li > a:after {
+	background-color: #da0d0d;
+}
+.isotope-filter-button {
+	background-color: #da0d0d;
+}
+.isotope-filter.fi-to-button ul.isotope-filter-links > li > a:hover {
+	color: #da0d0d;
+}
+.isotope-filter.fi-to-button ul.isotope-filter-links > li > a.active {
+	color: #da0d0d;
+}
+.gl-item-title a:hover {
+	color: #da0d0d;
+}
+.gli-alter-2 .gl-item-title a:hover {
+	color: #da0d0d;
+}
+.gli-alter-3 .gl-item-title a:hover {
+	color: #da0d0d;
+}
+.gli-colored .gallery-list-item .gl-item-image-inner:hover:before,
+.gli-colored.gli-alter-4 .gallery-list-item:hover .gl-item-image-inner:before,
+.gli-colored.gli-alter-4 .gallery-list-item:hover .gl-item-image-inner:hover:before,
+.gli-colored.gli-alter-5 .gallery-list-item:hover .gl-item-image-inner:before {
+	background-color: #da0d0d !important;
+}
+.gtb-heading-category a,
+.gtb-heading-category span {
+	background-color: #da0d0d;
+}
+#gallery.gsi-color .gallery-single-item:before {
+	background-color: #da0d0d;
+}
+.gallery-share {
+	background-color: #da0d0d;
+}
+ul.gallery-meta > li a:hover {
+	color: #da0d0d;
+}
+.gallery-single-carousel ul.gallery-meta > li a:hover {
+	color: #da0d0d;
+}
+.icon-heart-filled:before {
+	color: #da0d0d;
+}
+.sr-item-category a,
+.sr-item-category span {
+	background-color: #da0d0d;
+	color: #FFF;
+}
+.sr-item-title:hover,
+.sr-item-title > a:hover {
+	color: #da0d0d;
+}
+.sr-item-meta a:hover {
+   color: #da0d0d;
+}
+ul.sr-item-attr > li a:hover {
+	color: #da0d0d
+}
+.price-box.price-box-featured .btn-price-box {
+	background-color: #da0d0d;
+	border-color: #da0d0d;
+}
+.price-box.price-box-featured .btn-price-box:hover {
+	background-color: #bd0707;
+	border-color: #bd0707;
+}
+.nav-outside-top .owl-nav button.owl-prev:hover, .nav-outside-top .owl-nav button.owl-next:hover {
+	background-color: #da0d0d !important;
+}
+.owl-dots button.owl-dot.active span, 
+.owl-dots button.owl-dot:hover span {
+	background-color: #da0d0d;
+}
+.owl-carousel .cc-title a:hover {
+	/* color: #da0d0d; */
+}
+.owl-carousel .cc-category a,
+.owl-carousel .cc-category span {
+	background-color: #da0d0d;
+}
+.cc-meta a:hover {
+	color: #da0d0d;
+}
+.owl-carousel ul.cc-item-attr > li a:hover {
+	color: #da0d0d;
+}
+#blog-list-carousel-section .owl-carousel .cc-category a:hover {
+	background-color: #da0d0d;
+}
+.bl-item-category a,
+.bl-item-category span {
+	background-color: #da0d0d;
+	color: #FFF;
+}
+.bl-item-title:hover, .bl-item-title:focus,
+.bl-item-title h2:hover, .bl-item-title h2:focus {
+	color: #da0d0d;
+}
+.bl-item-meta a:hover {
+	color: #da0d0d;
+}
+.blog-list-item .bl-item-read-more:hover span,
+.blog-list-item .bl-item-read-more:hover span:before,
+.blog-list-item .bl-item-read-more:hover span:after {
+	background-color: #da0d0d;
+}
+ul.bl-item-attr > li a:hover {
+	color: #da0d0d;
+}
+.blog-single-post-category a {
+	background-color: #da0d0d;
+	color: #FFF;
+}
+.single-post-image-caption a {
+	color: #da0d0d;
+}
+.blog-single-meta .article-author a:hover {
+	color: #da0d0d;
+}
+.blog-single-meta .article-time-cat a:hover {
+	color: #da0d0d;
+}
+.blog-single-links a:hover, .blog-single-links a:focus, .blog-single-links .favorite-btn:hover {
+	color: #da0d0d;
+}
+.blog-single-tags a:hover {
+	background-color: #da0d0d;
+}
+.bs-nav-title:hover, .bs-nav-title h4:hover {
+	color: #da0d0d;
+}
+.related-posts-heading {
+	border-color: #da0d0d;
+}
+.related-posts-item .rp-item-title:hover,
+.related-posts-item .rp-item-title h4:hover {
+	color: #da0d0d;
+}
+.related-posts-item .rp-item-category a {
+	background-color: #da0d0d;
+}
+.media-heading a:hover {
+	color: #da0d0d;
+}
+.media-reply a:hover {
+	color: #da0d0d;
+}
+.sidebar-heading {
+	border-color: #da0d0d;
+}
+.sidebar hr {
+	border-top: 2px solid #da0d0d;
+}
+.blog-author-name a:hover {
+	color: #da0d0d;
+}
+.sidebar-categories > ul > li > a:hover {
+	color: #da0d0d;
+}
+.sidebar-categories > ul > li > a:hover span {
+	background-color: #da0d0d;
+}
+.sidebar-post-list .post-data .post-title a:hover {
+	color: #da0d0d;
+}
+.sidebar-post-list .post-data .author a:hover {
+	color: #da0d0d;
+}
+.sidebar-comment-data .author a:hover {
+	color: #da0d0d;
+}
+.sidebar-comment-wrap .sidebar-comment a:hover {
+	color: #da0d0d;
+}
+.sidebar-tags a:hover {
+	background-color: #da0d0d;
+}
+.sidebar-meta ul > li > a:hover {
+	color: #da0d0d;
+}
+#tt-post-password-form button {
+	background-color: #da0d0d;
+}
+.page-header-category > a {
+	background-color: #da0d0d;
+	color: #FFF;
+}
+.ph-more-info-trigger-icon {
+	border: 2px solid #da0d0d;
+}
+.ph-more-info-trigger-icon:before, 
+.ph-more-info-trigger-icon:after {
+	background-color: #da0d0d;
+}
+.pagination > .active > a, 
+.pagination > .active > a:focus, 
+.pagination > .active > a:hover, 
+.pagination > .active > span, 
+.pagination > .active > span:focus, 
+.pagination > .active > span:hover {
+	background-color: #da0d0d;
+	border-color: #da0d0d;
+}
+.form-control:focus {
+	border-color: #da0d0d !important;
+}
+.btn-primary { /* same as template main color */
+	background-color: #da0d0d;
+	border-color: #da0d0d;
+}
+.btn-primary:hover, 
+.btn-primary.focus, 
+.btn-primary:focus, 
+.btn-primary.active, 
+.btn-primary:active, 
+.btn-primary.active.focus, 
+.btn-primary.active:focus, 
+.btn-primary.active:hover, 
+.btn-primary:active.focus, 
+.btn-primary:active:focus, 
+.btn-primary:active:hover, 
+.open > .dropdown-toggle.btn-primary, 
+.open > .dropdown-toggle.btn-primary.focus, 
+.open > .dropdown-toggle.btn-primary:focus, 
+.open > .dropdown-toggle.btn-primary:hover {
+	color: #FFF;
+	background-color: #bd0707;
+	border-color: #bd0707;
+}
+.btn-primary.btn-link {
+	color: #da0d0d;
+}
+.btn-primary-bordered {
+	color: #da0d0d;
+	border-color: #da0d0d;
+}
+.btn-link {
+	color: #da0d0d; /* same as template main link color */
+}
+.btn-link:hover,
+.btn-link.focus,
+.btn-link:focus,
+.btn-link.active,
+.btn-link:active,
+.btn-link.active.focus,
+.btn-link.active:focus,
+.btn-link.active:hover,
+.btn-link:active.focus,
+.btn-link:active:focus,
+.btn-link:active:hover,
+.open > .dropdown-toggle.btn-link,
+.open > .dropdown-toggle.btn-link.focus,
+.open > .dropdown-toggle.btn-link:focus,
+.open > .dropdown-toggle.btn-link:hover {
+	color: #da0d0d;
+}
+.follow-me-buttons a:hover {
+	color: #da0d0d;
+}
+.footer-copyright a {
+	color: #da0d0d;
+}
+.scrolltotop:hover,
+.scrolltotop:focus {
+	background-color: #da0d0d;
+}
+
+
+
+/* ------------------------------------------------------------- *
+ *  Helper classes
+/* ------------------------------------------------------------- */
+
+.text-main { color: #da0d0d !important; }
+.link-main a { color: #da0d0d !important; }
+.bg-main { background-color: #da0d0d !important; }
+.border-main { border-color: #da0d0d !important; }
+.border-top-main { border-top-color: #da0d0d !important; }
+.border-bottom-main { border-bottom-color: #da0d0d !important; }
+.border-left-main { border-left-color: #da0d0d !important; }
+.border-right-main { border-right-color: #da0d0d !important; }

@@ -1,0 +1,359 @@
+
+/* --------------------------------------------------------------------
+* Template color skin CSS (Green)
+* 
+* Template:		Sepia - Photography Portfolio HTML Website Template
+* Author:		Themetorium
+* URL:			https://themetorium.net
+*
+* Template skin main color: #25a70b;
+* Hover color: #1b9004;
+*
+* Read template documentation about how to enable color skin!
+----------------------------------------------------------------------- */
+
+
+
+a {
+	color: #25a70b;
+}
+a:hover, a:focus {
+	color: #1b9004;
+	text-decoration: none;
+}
+
+::selection {
+	background: #25a70b;
+}
+::-moz-selection {
+	background: #25a70b; /* Firefox */
+}
+::-webkit-selection {
+	background: #25a70b; /* Safari */
+}
+
+hr.hr-short {
+	border-color: #25a70b;
+}
+
+.animsition-loading {
+	border-color: #25a70b;
+}
+
+.tt-menu-nav > li > a:after {
+	background-color: #25a70b;
+}
+
+.tt-menu-nav > li.active > a:after {
+	background-color: #25a70b;
+}
+
+.tt-submenu li > a:hover {
+	-webkit-box-shadow: inset 3px 0 0 0 #25a70b;
+	box-shadow: inset 3px 0 0 0 #25a70b;
+}
+.tt-submenu > li.active > a {
+	-webkit-box-shadow: 3px 0 0 0 #25a70b;
+	box-shadow: inset 3px 0 0 0 #25a70b;
+}
+.tt-menu-nav > li.active > a {
+		box-shadow: inset 4px 0 0 0 #25a70b;
+	}
+
+.tt-submenu > li.active > a {
+		box-shadow: inset 4px 0 0 0 #25a70b;
+	}
+
+.tt-clobal-search #tt-clobal-search-input:focus {
+	border-bottom-color: #25a70b;
+}
+.tt-tools-button {
+	background-color: #25a70b;
+}
+#tt-intro .cc-category {
+	background-color: #25a70b;
+}
+ul.isotope-filter-links > li > a:after {
+	background-color: #25a70b;
+}
+.isotope-filter-button {
+	background-color: #25a70b;
+}
+.isotope-filter.fi-to-button ul.isotope-filter-links > li > a:hover {
+	color: #25a70b;
+}
+.isotope-filter.fi-to-button ul.isotope-filter-links > li > a.active {
+	color: #25a70b;
+}
+.gl-item-title a:hover {
+	color: #25a70b;
+}
+.gli-alter-2 .gl-item-title a:hover {
+	color: #25a70b;
+}
+.gli-alter-3 .gl-item-title a:hover {
+	color: #25a70b;
+}
+.gli-colored .gallery-list-item .gl-item-image-inner:hover:before,
+.gli-colored.gli-alter-4 .gallery-list-item:hover .gl-item-image-inner:before,
+.gli-colored.gli-alter-4 .gallery-list-item:hover .gl-item-image-inner:hover:before,
+.gli-colored.gli-alter-5 .gallery-list-item:hover .gl-item-image-inner:before {
+	background-color: #25a70b !important;
+}
+.gtb-heading-category a,
+.gtb-heading-category span {
+	background-color: #25a70b;
+}
+#gallery.gsi-color .gallery-single-item:before {
+	background-color: #25a70b;
+}
+.gallery-share {
+	background-color: #25a70b;
+}
+ul.gallery-meta > li a:hover {
+	color: #25a70b;
+}
+.gallery-single-carousel ul.gallery-meta > li a:hover {
+	color: #25a70b;
+}
+.icon-heart-filled:before {
+	color: #25a70b;
+}
+.sr-item-category a,
+.sr-item-category span {
+	background-color: #25a70b;
+	color: #FFF;
+}
+.sr-item-title:hover,
+.sr-item-title > a:hover {
+	color: #25a70b;
+}
+.sr-item-meta a:hover {
+   color: #25a70b;
+}
+ul.sr-item-attr > li a:hover {
+	color: #25a70b
+}
+.price-box.price-box-featured .btn-price-box {
+	background-color: #25a70b;
+	border-color: #25a70b;
+}
+.price-box.price-box-featured .btn-price-box:hover {
+	background-color: #1b9004;
+	border-color: #1b9004;
+}
+.nav-outside-top .owl-nav button.owl-prev:hover, .nav-outside-top .owl-nav button.owl-next:hover {
+	background-color: #25a70b !important;
+}
+.owl-dots button.owl-dot.active span, 
+.owl-dots button.owl-dot:hover span {
+	background-color: #25a70b;
+}
+.owl-carousel .cc-title a:hover {
+	/* color: #25a70b; */
+}
+.owl-carousel .cc-category a,
+.owl-carousel .cc-category span {
+	background-color: #25a70b;
+}
+.cc-meta a:hover {
+	color: #25a70b;
+}
+.owl-carousel ul.cc-item-attr > li a:hover {
+	color: #25a70b;
+}
+#blog-list-carousel-section .owl-carousel .cc-category a:hover {
+	background-color: #25a70b;
+}
+.bl-item-category a,
+.bl-item-category span {
+	background-color: #25a70b;
+	color: #FFF;
+}
+.bl-item-title:hover, .bl-item-title:focus,
+.bl-item-title h2:hover, .bl-item-title h2:focus {
+	color: #25a70b;
+}
+.bl-item-meta a:hover {
+	color: #25a70b;
+}
+.blog-list-item .bl-item-read-more:hover span,
+.blog-list-item .bl-item-read-more:hover span:before,
+.blog-list-item .bl-item-read-more:hover span:after {
+	background-color: #25a70b;
+}
+ul.bl-item-attr > li a:hover {
+	color: #25a70b;
+}
+.blog-single-post-category a {
+	background-color: #25a70b;
+	color: #FFF;
+}
+.single-post-image-caption a {
+	color: #25a70b;
+}
+.blog-single-meta .article-author a:hover {
+	color: #25a70b;
+}
+.blog-single-meta .article-time-cat a:hover {
+	color: #25a70b;
+}
+.blog-single-links a:hover, .blog-single-links a:focus, .blog-single-links .favorite-btn:hover {
+	color: #25a70b;
+}
+.blog-single-tags a:hover {
+	background-color: #25a70b;
+}
+.bs-nav-title:hover, .bs-nav-title h4:hover {
+	color: #25a70b;
+}
+.related-posts-heading {
+	border-color: #25a70b;
+}
+.related-posts-item .rp-item-title:hover,
+.related-posts-item .rp-item-title h4:hover {
+	color: #25a70b;
+}
+.related-posts-item .rp-item-category a {
+	background-color: #25a70b;
+}
+.media-heading a:hover {
+	color: #25a70b;
+}
+.media-reply a:hover {
+	color: #25a70b;
+}
+.sidebar-heading {
+	border-color: #25a70b;
+}
+.sidebar hr {
+	border-color: #25a70b;
+}
+.blog-author-name a:hover {
+	color: #25a70b;
+}
+.sidebar-categories > ul > li > a:hover {
+	color: #25a70b;
+}
+.sidebar-categories > ul > li > a:hover span {
+	background-color: #25a70b;
+}
+.sidebar-post-list .post-data .post-title a:hover {
+	color: #25a70b;
+}
+.sidebar-post-list .post-data .author a:hover {
+	color: #25a70b;
+}
+.sidebar-comment-data .author a:hover {
+	color: #25a70b;
+}
+.sidebar-comment-wrap .sidebar-comment a:hover {
+	color: #25a70b;
+}
+.sidebar-tags a:hover {
+	background-color: #25a70b;
+}
+.sidebar-meta ul > li > a:hover {
+	color: #25a70b;
+}
+#tt-post-password-form button {
+	background-color: #25a70b;
+}
+.page-header-category > a {
+	background-color: #25a70b;
+	color: #FFF;
+}
+.ph-more-info-trigger-icon {
+	border: 2px solid #25a70b;
+}
+.ph-more-info-trigger-icon:before, 
+.ph-more-info-trigger-icon:after {
+	background-color: #25a70b;
+}
+.pagination > .active > a, 
+.pagination > .active > a:focus, 
+.pagination > .active > a:hover, 
+.pagination > .active > span, 
+.pagination > .active > span:focus, 
+.pagination > .active > span:hover {
+	background-color: #25a70b;
+	border-color: #25a70b;
+}
+.form-control:focus {
+	border-color: #25a70b !important;
+}
+.btn-primary { /* same as template main color */
+	background-color: #25a70b;
+	border-color: #25a70b;
+}
+.btn-primary:hover, 
+.btn-primary.focus, 
+.btn-primary:focus, 
+.btn-primary.active, 
+.btn-primary:active, 
+.btn-primary.active.focus, 
+.btn-primary.active:focus, 
+.btn-primary.active:hover, 
+.btn-primary:active.focus, 
+.btn-primary:active:focus, 
+.btn-primary:active:hover, 
+.open > .dropdown-toggle.btn-primary, 
+.open > .dropdown-toggle.btn-primary.focus, 
+.open > .dropdown-toggle.btn-primary:focus, 
+.open > .dropdown-toggle.btn-primary:hover {
+	color: #FFF;
+	background-color: #1b9004;
+	border-color: #1b9004;
+}
+.btn-primary.btn-link {
+	color: #25a70b;
+}
+.btn-primary-bordered {
+	color: #25a70b;
+	border-color: #25a70b;
+}
+.btn-link {
+	color: #25a70b; /* same as template main link color */
+}
+.btn-link:hover,
+.btn-link.focus,
+.btn-link:focus,
+.btn-link.active,
+.btn-link:active,
+.btn-link.active.focus,
+.btn-link.active:focus,
+.btn-link.active:hover,
+.btn-link:active.focus,
+.btn-link:active:focus,
+.btn-link:active:hover,
+.open > .dropdown-toggle.btn-link,
+.open > .dropdown-toggle.btn-link.focus,
+.open > .dropdown-toggle.btn-link:focus,
+.open > .dropdown-toggle.btn-link:hover {
+	color: #25a70b;
+}
+.follow-me-buttons a:hover {
+	color: #25a70b;
+}
+.footer-copyright a {
+	color: #25a70b;
+}
+.scrolltotop:hover,
+.scrolltotop:focus {
+	background-color: #25a70b;
+}
+
+
+
+/* ------------------------------------------------------------- *
+ *  Helper classes
+/* ------------------------------------------------------------- */
+
+.text-main { color: #25a70b !important; }
+.link-main a { color: #25a70b !important; }
+.bg-main { background-color: #25a70b !important; }
+.border-main { border-color: #25a70b !important; }
+.border-top-main { border-top-color: #25a70b !important; }
+.border-bottom-main { border-bottom-color: #25a70b !important; }
+.border-left-main { border-left-color: #25a70b !important; }
+.border-right-main { border-right-color: #25a70b !important; }

@@ -25,13 +25,21 @@
     <link rel="apple-touch-icon" sizes="152x152" href="assets/images/WCY的个人logo.png">-->
     <!--🔒-->
     <script>
-function clear() {
-Source=document.body.firstChild.data;
-document.open();
-document.close();
-document.body.innerHTML=Source;
-}
-</script>
+       function clear() {
+       Source=document.body.firstChild.data;
+       document.open();
+       document.close();
+       document.body.innerHTML=Source;
+      }
+    </script>
+    <!--深色模式-->
+    <script src="https://cdn.jsdelivr.net/npm/darkmode-js@1.5.7/lib/darkmode-js.min.js"></script>
+    <script>
+      function addDarkmodeWidget() {
+      new Darkmode().showWidget();
+      }
+      window.addEventListener('load', addDarkmodeWidget);
+    </script><!--深色模式-->
   </head>
   <body>
 

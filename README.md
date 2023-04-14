@@ -14,6 +14,5 @@
     <a href="https://ycu.wangcy.cf">YCU起始页</a> |
     <a href="https://sou.wangcy.tk">简约起始页</a> |
     <a href="https://wangcy.tk/Wallpaper">壁纸</a> | 
-    <a href="https://ycu.wangcy.cf">YCU起始页</a> |
     <a href="https://donate.wangcy.tk">投喂</a>
 </div>
